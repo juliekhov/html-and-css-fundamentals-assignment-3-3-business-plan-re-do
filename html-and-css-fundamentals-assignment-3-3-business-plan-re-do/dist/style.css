@@ -1,0 +1,65 @@
+html {
+  margin: 50px;
+  padding: 50px;
+  background-image: url("https://assets.codepen.io/3163723/henry-co-tqu0IOMaiU8-unsplash.jpg");
+}
+
+div {
+  position: left;
+}
+
+.navbar {
+  margin: 20px;
+  padding: 20px;
+}
+
+h1, h6 {
+  text-shadow: 2px 2px cyan;
+}
+
+#robo-border {
+  border: black solid 5px;
+  position: inline;
+}
+
+#font-size {
+  font-size: 15px;
+  font-family:sans-serif;
+}
+
+.card, .card-img-top, div, body, html {
+  background-color: transparent;
+  left: 30px;
+}
+.nav {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 1px;
+  word-spacing: 0.1em;
+}
+
+ul,li {
+  height: 500px;
+  width: 1200px;
+}
+
+#margin-text {
+ padding:10px;
+  font-size: 20px;
+  margin-bottom:10px;
+}
+div {
+  margin: 50px;
+  margin-right: 10px;
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-padding: 50px;
+
+}
+
+#left {
+  display:left;
+  margin-left:0px;
+  margin-right:500px;
+}
